@@ -1,7 +1,7 @@
 # Bank Customer Classification
 
 ## 📌 Project Overview
-Proyek ini adalah tahap lanjutan (*Supervised Learning*) dari proyek **[Customer_CLustering_Kmeans](https://github.com/dimasfadhila/Customer_Clustering_KMeans)** yang sebelumnya menggunakan *Unsupervised Learning* (K-Means). 
+Proyek ini adalah tahap lanjutan (*Supervised Learning*) dari proyek **[Customer_Clustering_Kmeans](https://github.com/dimasfadhila/Customer_Clustering_KMeans)** yang sebelumnya menggunakan *Unsupervised Learning* (K-Means). 
 
 Setelah nasabah berhasil disegmentasi ke dalam *Cluster 0* (Usia Dewasa) dan *Cluster 1* (Usia Muda), proyek ini membangun model klasifikasi Machine Learning untuk memprediksi segmen nasabah baru secara otomatis dan *real-time* berdasarkan data transaksi mereka, tanpa perlu menjalankan ulang algoritma *clustering* dari awal.
 
