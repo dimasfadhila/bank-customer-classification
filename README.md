@@ -38,4 +38,4 @@ Evaluasi model pada data uji (*test set*) menunjukkan performa yang luar biasa:
 ## 🚀 How to Run the Project
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/username-kamu/bank-customer-classification.git](https://github.com/username-kamu/bank-customer-classification.git)
+   git clone [https://github.com/dimasfadhila/bank-customer-classification.git](https://github.com/dimasfadhila/bank-customer-classification.git)
